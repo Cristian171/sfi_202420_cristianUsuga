@@ -1,0 +1,2 @@
+1 que es un sistema de versiones
+es una forma de llevar control de los cambios que se hacen en tu programa y poder retornar se pasa un problema 
