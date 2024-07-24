@@ -7,3 +7,5 @@ es una forma de llevar control de los cambios que se hacen en tu programa y pode
 3,2GitHub: GitHub proporciona un repositorio central que puede ser accedido por cualquier persona con los permisos adecuados.
 
 4 es cuando preparamos el commit y el push para subirlo al repositorio en la nube.
+
+5 las ramas en git se usa para que no trabajes dentro del codigo funcional si no que creas una rama si funciona la unes al original si no funciona solo eliminas la rama
