@@ -1,2 +1,3 @@
 1 que es un sistema de versiones
 es una forma de llevar control de los cambios que se hacen en tu programa y poder retornar se pasa un problema 
+2 el local es para mis cambios cosas que solo trabajo yo y el remoto es para hacer cambios para que mas personas pueden trabajar en el codigo
